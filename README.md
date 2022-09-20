@@ -1,2 +1,2 @@
-# Movie_Rental
+# MovieRental
  
